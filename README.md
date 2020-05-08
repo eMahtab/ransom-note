@@ -21,7 +21,7 @@ Input: ransomNote = "aa", magazine = "aab"
 Output: true
 ``` 
 
-**Constraints: You may assume that both strings contain only lowercase letters. **
+**Constraints: You may assume that both strings contain only lowercase letters.**
 
 
 
